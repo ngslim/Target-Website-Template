@@ -18,9 +18,8 @@ body {
 }
 
 .container {
-  width: 100%;
+  width: 960px;
   margin: 0 auto;
-  max-width: 1000px;
   border-width: 0 1px;
   border-style: solid;
   border-color: #e2e2e2;
